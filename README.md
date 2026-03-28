@@ -4,10 +4,10 @@
 ---
 
 ### My Info  
-**Name:** Kanav Luthra  
-**Reg No.:** 25BCE10417  
-**Program:** BTech CSE Core  
-**School:** SCOPE  
+**Name:** Ashish Kumar  
+**Reg No.:** 25BAI11085  
+**Program:** BTech CSE AI&ML  
+**School:** SCAI  
 
 ## Project Overview
 
